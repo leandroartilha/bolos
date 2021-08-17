@@ -1,0 +1,19 @@
+.rodape {
+    padding: 2em 5em;
+    background-color: #bfbfbf;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    display: flex;
+}
+
+.rodape__texto {
+    margin-left: 20em;
+}
+
+@media screen and (max-width:500px){
+    .rodape__texto{
+        margin-left: 0;
+    }
+}
