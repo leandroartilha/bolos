@@ -1,1 +1,1 @@
-link do site https://substore.vercel.app/index.html
+link do site https://bolosreceita.vercel.app/
