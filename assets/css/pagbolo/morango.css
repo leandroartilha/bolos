@@ -16,7 +16,12 @@
     margin-bottom: 2em;
     border-radius: 10px;
     box-shadow: -15px 15px 20px rgba(0,0,0,0.3);
-    
+}
+
+@media screen and (max-width: 500px){
+    .imagemrec{
+        left:21%;
+    }
 }
 
 .ingredientes{
@@ -32,7 +37,12 @@
     font-family: 'Fira Sans', sans-serif;
     color: #5e2129;
     box-shadow: -20px 20px 50px rgba(0,0,0,0.3);
-    
+}
+@media screen and (max-width: 500px){
+    .ingredientes{
+        margin-left: 0em;
+        margin-right: 0em;
+    }
 }
 
 h2{
@@ -49,6 +59,13 @@ h2{
     text-align: left;
     margin-left: 30em;
     font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+@media screen and (max-width: 500px){
+    .receita__ul{
+        margin-left: 4em;
+        margin-right: 2em;
+    }
 }
 
 .receita__lista{
