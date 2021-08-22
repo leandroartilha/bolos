@@ -1,0 +1,43 @@
+.cabecalho{
+    background-color: #e9e9e9;
+}
+
+.cabecalho__menu{
+    display: flex;
+    position: absolute;
+    top:3em;
+    left: 60em;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.cabecalho__menu--itens{
+    margin-right: 3em;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    color: brown;
+}
+
+.cabecalho__menu--itens:hover{
+    color: crimson;
+}
+
+@media screen and (max-width: 500px){
+    .cabecalho__menu{
+        position:relative;
+        justify-content:center;
+        left: 0px;
+        top:0px;
+        text-align: center;
+        padding-top: 2em;
+        padding-bottom: 2em;
+        font-size: 1.3em;
+        justify-content: none;
+        margin-left: 30px;
+    }
+}
+
+
+
+

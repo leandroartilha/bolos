@@ -1,0 +1,17 @@
+.sobre__titulo{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    color: #5e2129;
+    font-size: 2.5em;
+    margin-top: 1em;
+}
+
+.sobre__texto{
+    margin-top: 2em;
+    margin-left: 7em;
+    margin-right: 7em;
+    margin-bottom: 2em;
+    font-size: 1.1em;
+    font-family: 'Georama', sans-serif;
+}

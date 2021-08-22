@@ -1,0 +1,66 @@
+.receita__titulo__geral{
+    text-align: center;
+    padding-top: 1em;
+    font-size: 5em;
+    color: #5e2129;
+    font-family: 'Fira Sans', cursive;
+    
+}
+
+.imagemrec{
+    height: 16em;
+    width: 19em;
+    left: 40%;
+    position: relative;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    border-radius: 10px;
+    box-shadow: -15px 15px 20px rgba(0,0,0,0.3);
+    
+}
+
+.ingredientes{
+    text-align: center;
+    margin-bottom: 2em;
+    background-color:lightgray;
+    padding: 2em 0;
+    margin-left: 26em;
+    margin-right: 26em;
+    border-radius: 80%;
+    margin-top: 2em;
+    font-size: 1.4em;
+    font-family: 'Fira Sans', sans-serif;
+    color: #5e2129;
+    box-shadow: -20px 20px 50px rgba(0,0,0,0.3);
+    
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-weight: bold;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #5e2129;;
+    font-size: 1.2em;
+}
+
+.receita__ul{
+    text-align: left;
+    margin-left: 30em;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.receita__lista{
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    list-style:disc;
+    font-size: 1.03em;
+}
+
+
+
+.estrutura__morango{
+    padding-bottom: 5em;
+    background-color: wheat;
+}
