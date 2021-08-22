@@ -20,7 +20,7 @@
 
 @media screen and (max-width: 500px){
     .imagemrec{
-        left:21%;
+        left:16%;
     }
 }
 
@@ -73,6 +73,12 @@ h2{
     margin-bottom: 1.2em;
     list-style:disc;
     font-size: 1.03em;
+}
+
+@media screen and (max-width: 500px){
+    .receita__lista{
+        font-size: 1.3em;
+    }
 }
 
 
