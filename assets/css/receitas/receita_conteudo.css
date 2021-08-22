@@ -27,6 +27,13 @@
     transition: all .2s ease-in-out;
 }
 
+@media screen and (max-width: 500px){
+    .botao__receita{
+        padding:0.8em;
+        font-size: 1em;
+    }
+}
+
 .botao__receita:hover{
     cursor:pointer;
     background-color: crimson;
