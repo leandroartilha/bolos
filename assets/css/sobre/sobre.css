@@ -15,3 +15,11 @@
     font-size: 1.1em;
     font-family: 'Georama', sans-serif;
 }
+
+@media screen and (max-width: 500px){
+    .sobre__texto{
+        margin-left: 4em;
+        margin-right: 4em;
+        font-size: 1.3em;
+    }
+}
